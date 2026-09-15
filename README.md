@@ -17,7 +17,8 @@ service operation.
   with serial/TCP/UDP and NMEA 0183 support. Includes a complete marine
   instrument display written entirely in Leopard.
 - **[Ide-Suite](https://github.com/CFFinch62/Ide-Suite)** — lightweight PyQt6
-  IDEs for Nim, Crystal, Ruby, SQL, Pascal, Modula-2, Go, Clojure, Lua, and more.
+  IDEs for Pseudocode / BASIC / Lua /Ruby / Python desinged to give students familiar
+  feeling tools as they progress through different programming langauges.
 - **FORGE, PLAIN, STEPS, BARE** — a family of teaching languages exploring
   different tradeoffs in syntax, typing, and execution model.
 
