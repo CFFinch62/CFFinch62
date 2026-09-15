@@ -19,7 +19,7 @@ service operation.
 - **[Ide-Suite](https://github.com/CFFinch62/Ide-Suite)** — lightweight PyQt6
   IDEs for Pseudocode (Algorithm Design) / BASIC (Programming Fundamentals) / Lua (Scripting) / Ruby (OOP) / Python (Mopdern Development) desinged to give students familiar
   feeling tools as they progress through different programming langauges.
-- **[IDE -SUITE 2** — lightweight PyQt6 IDEs for a large list of programming languages APPLE(APL), BANTER(SMALLTALK), BLADE(BASIC), BLAZE(PASCAL), BLISS(EUPHORIA), CAPSULE(MODULA-2), CLASP(LOGO), CLJDE(CLOJURE), CONS_JOB(SCHEME), FABLE(FORTH), FORTE(FORTRAN), GEM(RUBY), GLOAT(C), GOPHER(GO), HOPPER(COBOL), JOT(WEB), LITHP(LISP), LOVELACE(ADA), LUNA(LUA), NIMBUS(NIM), PROOF(PROLOG), QUARTZ(CRYSTAL), AND .SQUEAL(SQL)
+- **IDE -SUITE 2** — lightweight PyQt6 IDEs for a large list of programming languages APPLE(APL), BANTER(SMALLTALK), BLADE(BASIC), BLAZE(PASCAL), BLISS(EUPHORIA), CAPSULE(MODULA-2), CLASP(LOGO), CLJDE(CLOJURE), CONS_JOB(SCHEME), FABLE(FORTH), FORTE(FORTRAN), GEM(RUBY), GLOAT(C), GOPHER(GO), HOPPER(COBOL), JOT(WEB), LITHP(LISP), LOVELACE(ADA), LUNA(LUA), NIMBUS(NIM), PROOF(PROLOG), QUARTZ(CRYSTAL), AND .SQUEAL(SQL)
   feeling tools as they progress through different programming langauges.
 - **FORGE, PLAIN, STEPS, BARE** — a family of teaching languages exploring
   different tradeoffs in syntax, typing, and execution model.
