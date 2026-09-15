@@ -1,16 +1,30 @@
-## Hi there 👋
+# Chuck Finch
 
-<!--
-**CFFinch62/CFFinch62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build developer tools, programming languages, instrumentation software, games and more —
+and I've spent 25+ years supporting the people who use hardware and software
+in the field, which is why my tools are built to fail legibly.
 
-Here are some ideas to get you started:
+**Currently:** Technical Support Services Manager at Si-Tex Marine Electronics,
+where I'm the entire support, repair, and field-engineering function for a
+worldwide dealer network — and where I write the software that runs the
+service operation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What's here
+
+- **[Quick](https://github.com/CFFinch62/Quick)** — interpreted language in C99.
+  Stack-based bytecode VM, compile-time slot resolution, 189 tests, no dependencies.
+- **[Leopard](https://github.com/CFFinch62/Leopard)** — beginner GUI language
+  with serial/TCP/UDP and NMEA 0183 support. Includes a complete marine
+  instrument display written entirely in Leopard.
+- **[Ide-Suite](https://github.com/CFFinch62/Ide-Suite)** — lightweight PyQt6
+  IDEs for Nim, Crystal, Ruby, SQL, Pascal, Modula-2, Go, Clojure, Lua, and more.
+- **FORGE, PLAIN, STEPS, BARE** — a family of teaching languages exploring
+  different tradeoffs in syntax, typing, and execution model.
+
+I produce tools for teaching programming to young students. Not to produce coders — to produce
+people who think clearly. That constraint is why these tools are built the
+way they are.
+
+**Python · C · PyQt6 · Flask · PostgreSQL · Linux**
+
+📧 chuckffinch@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/charles-finch-a90b132aa) · 🌐 [fragillidaesoftware.com](https://fragillidaesoftware.com)
