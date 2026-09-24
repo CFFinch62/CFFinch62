@@ -1,7 +1,7 @@
 # Chuck Finch
 
 I build developer tools, programming languages, instrumentation software, games and more —
-and I've spent 25+ years supporting the people who use hardware and software
+and I've spent 35+ years supporting the people who use hardware and software
 in the field, which is why my tools are built to fail legibly.
 
 **Currently:** Technical Support Services Manager at Si-Tex Marine Electronics,
