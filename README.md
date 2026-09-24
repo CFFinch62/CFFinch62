@@ -6,7 +6,7 @@ in the field, which is why my tools are built to fail legibly.
 
 **Currently:** Technical Support Services Manager at Si-Tex Marine Electronics,
 where I provide techincal support, shop repairs, and field-engineering functions for a
-worldwide dealer network — and where I write software tools for the marien electronics industry.
+worldwide dealer network — and where I write software tools for the marine electronics industry.
 
 ### What's here
 
