@@ -5,9 +5,8 @@ and I've spent 25+ years supporting the people who use hardware and software
 in the field, which is why my tools are built to fail legibly.
 
 **Currently:** Technical Support Services Manager at Si-Tex Marine Electronics,
-where I'm the entire support, repair, and field-engineering function for a
-worldwide dealer network — and where I write the software that runs the
-service operation.
+where I provide techincal support, shop repairs, and field-engineering functions for a
+worldwide dealer network — and where I write software tools for the marien electronics industry.
 
 ### What's here
 
